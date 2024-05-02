@@ -1,3 +1,4 @@
+/*
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
@@ -344,3 +345,4 @@ const createUserTable ='''CREATE TABLE IF NOT EXISTS "user" (
         PRIMARY KEY("id" AUTOINCREMENT)
       );
       ''';
+*/
